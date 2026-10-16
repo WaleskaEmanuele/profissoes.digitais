@@ -1,0 +1,95 @@
+%PDF-1.4
+%FrontEndReport
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 4700 >>
+stream
+BT /F2 16.0 Tf 1 0 0 1 45 795.00 Tm (RELATORIO DE PROGRESSO - CODIFICACAO PARA FRONT-END) Tj ET
+BT /F1 11.0 Tf 1 0 0 1 45 765.40 Tm (Aluno: WALESKA EMANUELE SANTOS ARAUJO) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 45 750.55 Tm (Gerado em: 16/10/2026, 14:51:07) Tj ET
+BT /F2 15.0 Tf 1 0 0 1 45 729.55 Tm (NOTA: 10,0 / 10) Tj ET
+BT /F1 10.0 Tf 1 0 0 1 45 709.30 Tm (Progresso: 100% | Tempo ativo: 12min 15s | Acertos: 58 | Erros: 6) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 45 687.80 Tm (Composicao: 70% questoes \(100%\) e 30% estudo \(100%\).) Tj ET
+BT /F2 12.0 Tf 1 0 0 1 45 664.80 Tm (DETALHAMENTO POR ETAPA) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 643.60 Tm (1. Como estudar neste curso) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 630.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 2 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 613.10 Tm (2. Estrutura de documentos HTML) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 599.60 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 582.60 Tm (3. Formata\347\343o, links e listas) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 569.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 2 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 552.10 Tm (4. Tabelas e formul\341rios) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 538.60 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 3 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 521.60 Tm (5. Imagem, \341udio, v\355deo e sem\342ntica) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 508.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 3 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 491.10 Tm (6. Fontes, cores, linhas e seletores) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 477.60 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 460.60 Tm (7. Layouts e responsividade) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 447.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 2 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 430.10 Tm (8. Estados, c\363digo sem\342ntico e versionamento) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 416.60 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 399.60 Tm (9. Frameworks, modelagem e padr\365es de interface) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 386.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 369.10 Tm (10. Componentes, classes e propriedades) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 355.60 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 2 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 338.60 Tm (11. IDE, configura\347\365es e depura\347\343o) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 325.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 308.10 Tm (12. Tipos de aplica\347\343o, versionamento e documenta\347\343o) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 294.60 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 277.60 Tm (13. Vari\341veis, constantes e operadores) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 264.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 4 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 247.10 Tm (14. Condicionais e la\347os de repeti\347\343o) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 233.60 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 216.60 Tm (15. Fun\347\365es e eventos da interface) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 203.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 186.10 Tm (16. Classes e orienta\347\343o a objetos) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 172.60 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 155.60 Tm (17. Bibliotecas, arquivos, convers\365es e documenta\347\343o) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 142.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 125.10 Tm (18. Estrutura organizacional e planejamento) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 111.60 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 94.60 Tm (19. Defini\347\343o e import\342ncia da prototipagem) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 81.10 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 64.10 Tm (20. Tipos e t\351cnicas de prot\363tipos) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 336 >>
+stream
+BT /F1 8.0 Tf 1 0 0 1 45 795.00 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+BT /F2 10.0 Tf 1 0 0 1 45 778.00 Tm (21. Projeto Integrador - Portal ConectaWeb) Tj ET
+BT /F1 8.0 Tf 1 0 0 1 45 764.50 Tm (Leitura: 35s/35s | Percurso: 100% | Questionario: 2/2 | Tentativas: 1 | Concluida) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000025 00000 n 
+0000000074 00000 n 
+0000000137 00000 n 
+0000000234 00000 n 
+0000000336 00000 n 
+0000005088 00000 n 
+0000005230 00000 n 
+0000005617 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+5759
+%%EOF
